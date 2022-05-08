@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jatin Khatri
-- 👀 I’m interested in learning programming, networking, Game-development and graphic designing.
+- 👀 I’m interested in learning Programming, Getworking, Game Development and Graphic Designing.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on fun projects, web development, games.
 - 📫 Reach me on :-
